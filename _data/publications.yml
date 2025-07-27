@@ -1,19 +1,28 @@
 main:
-
+  - title: Multi-granularity Superpoint Graph Learning for Weakly Supervised 3D Semantic Segmentation
+    authors:  <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Le Hui, Jin Xie, Bin Xiao, and Qinghua Hu
+    conference_short: IEEE TMM
+    conference:  IEEE Transactions on Multimedia <strong>(IEEE TMM)</strong>, 2025.
+    notes: Early Accept
+    image: ./assets/img/MSGL.png
+    code: ttps://github.com/fanyan0411/MSGL
+    
   - title: Reducing Class wise Confusion for Incremental Learning with Disentangled Manifolds
     authors:  Huitong Chen, Yu Wang, <strong>Yan Fan</strong>, Guosong Jiang, Qinghua Hu
     conference_short: CVPR
     conference:  Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    notes: Early Accept
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.html
     image: ./assets/img/CREATE.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ygVji3oymPkJ:scholar.google.com/&output=citation&scisdr=CgI1jcSrEMbTrjjfxbM:AAZF9b8AAAAAaIXZ3bMzZ1OlHVsTafgEuKujWas&scisig=AAZF9b8AAAAAaIXZ3de86uXmZamVN5Y1ORex57Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
 
   - title: Uncertainty-aware Superpoint Graph Transformer for Weakly Supervised 3D Semantic Segmentation
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Le Hui, Jin Xie, Qinghua Hu
     conference_short: IEEE TFS
     conference:  IEEE Transactions on Fuzzy Systems <strong>(IEEE TFS)</strong>, 2025.
-    notes: Early Accept
+    pdf: https://ieeexplore.ieee.org/abstract/document/10904869/
+    code: https://github.com/fanyan0411/UaSGT
     image: ./assets/img/UaSGT_framework.png.png
-
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4F4QWAY5zssJ:scholar.google.com/&output=citation&scisdr=CgI1jcSrEMbTrjjfPc4:AAZF9b8AAAAAaIXZJc7ouL4O_k3fter5ZTgCTak&scisig=AAZF9b8AAAAAaIXZJWDgvPVqwkCVLtTexqhmiOA&scisf=4&ct=citation&cd=-1&hl=zh-CN
 
   - title: Persistence Homology Distillation for Semi-supervised Continual Learning
     authors: <strong>Yan Fan</strong>, Yu Wang, Pengfei Zhu, Dongyue Chen, Qinghua Hu
