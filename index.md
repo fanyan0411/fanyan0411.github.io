@@ -11,7 +11,7 @@ Yan Fan (范妍) received her B.S. degree and M.S. degree from NorthWest Univers
 - **Machine Learning:** Weakly supervised learning, Continual learning
 
 ## News
-- **[Feb. 2025]** Our paper about 3D semantic segmentation is accepted to IEEE TMM 2025.
+- **[Jul. 2025]** Our paper about 3D semantic segmentation is accepted to IEEE TMM 2025.
 - **[Feb. 2025]** Our paper about continual learning is accepted to CVPR 2025.
 - **[Feb. 2025]** Our paper about 3D semantic segmentation is accepted to IEEE TFS 2025.
 - **[Sep. 2024]** Our paper about continual learning is accepted to NeurIPS 2024.
